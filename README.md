@@ -35,7 +35,7 @@ The application uses a microservices-oriented architecture:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/URO-Flood-Lab-Web-Platform.git](https://github.com/your-username/URO-Flood-Lab-Web-Platform.git)
+    git clone https://github.com/sandeepkumar009/URO-Flood-Lab-Web-Platform.git
     cd URO-Flood-Lab-Web-Platform
     ```
 
